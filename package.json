@@ -1,0 +1,22 @@
+{
+  "name": "mathurtree",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmathur7/mathurtree.git"
+  },
+  "author": "Kunal Mathur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmathur7/mathurtree/issues"
+  },
+  "homepage": "https://github.com/kmathur7/mathurtree#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
